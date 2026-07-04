@@ -9,6 +9,8 @@ Passionate about building scalable web applications with the MERN stack while ex
 
 ---
 
+<h2> check my 🚀 Built a responsive Arbitrum Block Explorer featuring blockchain information data using the CoinGecko API.   https://github.com/krishacodes30/arbitrum-block-explorer</h2>
+
 ## 👨‍💻 About Me
 
 - 🎓 B.E. Computer Science Engineering Student (3rd Year)
