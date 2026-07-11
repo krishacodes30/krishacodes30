@@ -132,7 +132,7 @@ https://www.linkedin.com/in/krisha-patel-186118324
 
 📄 **Resume**
 
-https://drive.google.com/file/d/1vGy5FurUrj7Y0xSrvicqztVln3mQ8v7U/view?usp=sharing
+
 
 ---
 
