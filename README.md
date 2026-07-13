@@ -20,7 +20,7 @@ Passionate about building scalable web applications with the MERN stack while ex
 - 📚 Improving my **Data Structures & Algorithms** skills
 - 🚀 Passionate about building scalable and impactful applications
 - 🏆 Active participant in hackathons and coding challenges
-- 📍 Vadodara, Gujarat, India
+
 
 ---
 
