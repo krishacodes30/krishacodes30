@@ -43,7 +43,7 @@ Worked on production-level backend development using:
 - Nginx
 - SSL Configuration
 - DNS Setup
-- Git Collaboration
+
 
 ---
 
