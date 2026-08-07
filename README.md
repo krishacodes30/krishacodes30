@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Krisha Patel</h1>
-<h3 align="center">Computer Science Engineering Student | Full Stack Developer | AI/ML Explorer</h3>
+<h3 align="center">Computer Science Engineering Student | Full Stack Developer | AI/ML Explorer.</h3>
 
 <p align="center">
 Passionate about building scalable web applications with the MERN stack while exploring Artificial Intelligence, Machine Learning, and solving problems through Data Structures & Algorithms.
