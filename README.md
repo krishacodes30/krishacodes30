@@ -53,7 +53,7 @@ Worked on production-level backend development using:
 - Artificial Intelligence
 - Machine Learning
 - Data Structures & Algorithms
-- System Design Fundamentals
+
 
 ---
 
